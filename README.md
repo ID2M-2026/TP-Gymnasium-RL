@@ -22,11 +22,11 @@ Cet atelier vous apprendra à :
 1. **Ouvrir le notebook dans Colab :**
    - Cliquez sur le badge ci-dessous pour la version **française** :
    
-     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ID2M-2026/Gymnasium-RL-Workshop/blob/main/notebooks/Gymnasium_Workshop_French.ipynb)
+     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ID2M-2026/TP-Gymnasium-RL/blob/main/notebooks/Gymnasium_Workshop_Version_Francais.ipynb)
    
    - Pour la version **anglaise** :
    
-     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ID2M-2026/Gymnasium-RL-Workshop/blob/main/notebooks/Gymnasium_Workshop_English.ipynb)
+     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ID2M-2026/TP-Gymnasium-RL/blob/main/notebooks/Gymnasium_Workshop_English_Version.ipynb)
 
 2. **Connectez-vous à votre compte Google pas compte Google de classe**
 
