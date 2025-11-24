@@ -1,7 +1,5 @@
 # Atelier Gymnasium - Apprentissage par Renforcement
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VOTRE_USERNAME/Gymnasium-RL-Workshop/blob/main/notebooks/Gymnasium_Workshop_French.ipynb)
-
 Atelier pratique d'introduction à l'apprentissage par renforcement (Reinforcement Learning) avec **Gymnasium**, **Q-Learning** et **Deep Q-Learning (DQN)**.
 
 ---
@@ -24,11 +22,11 @@ Cet atelier vous apprendra à :
 1. **Ouvrir le notebook dans Colab :**
    - Cliquez sur le badge ci-dessous pour la version **française** :
    
-     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VOTRE_USERNAME/Gymnasium-RL-Workshop/blob/main/notebooks/Gymnasium_Workshop_French.ipynb)
+     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ID2M-2026/Gymnasium-RL-Workshop/blob/main/notebooks/Gymnasium_Workshop_French.ipynb)
    
    - Pour la version **anglaise** :
    
-     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VOTRE_USERNAME/Gymnasium-RL-Workshop/blob/main/notebooks/Gymnasium_Workshop_English.ipynb)
+     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ID2M-2026/Gymnasium-RL-Workshop/blob/main/notebooks/Gymnasium_Workshop_English.ipynb)
 
 2. **Connectez-vous à votre compte Google pas compte Google de classe**
 
